@@ -269,7 +269,7 @@ collections:
     label: Seções de Documentação
     files:
       - name: doc_sections
-        label: Documentation Sections
+        label: Seções de Documentação
         file: src/data/doc_sections.yml
         fields:
           - widget: string
@@ -337,7 +337,7 @@ collections:
       field: template
       value: docs
   - name: advanced
-    label: Advanced Pages
+    label: Páginas Avançadas
     folder: src/pages/
     create: true
     extension: md
@@ -768,7 +768,7 @@ collections:
             required: true
             default: blog
   - name: page
-    label: Pages
+    label: Páginas
     folder: src/pages/
     create: true
     extension: md
