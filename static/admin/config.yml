@@ -5,10 +5,10 @@ media_folder: static/images
 public_folder: /images
 collections:
   - name: config
-    label: Site Configuration
+    label: Configurar Site
     files:
       - name: config
-        label: Site Configuration
+        label: Configurar Site
         file: site-metadata.json
         fields:
           - widget: string
@@ -266,7 +266,7 @@ collections:
                 hint: The type of the object
                 default: footer
   - name: doc_sections
-    label: Documentation Sections
+    label: Seções de Documentação
     files:
       - name: doc_sections
         label: Documentation Sections
@@ -294,7 +294,7 @@ collections:
               name: string
               widget: string
   - name: docs
-    label: Documentation Pagess
+    label: Páginas de Documentação
     folder: src/pages/docs
     create: true
     extension: md
