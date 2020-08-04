@@ -28,11 +28,11 @@ sections:
             style: link
       - type: grid_item
         title: Blog
-        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-          non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: Leia os últimos artigos do nosso blog, com dicas e novidades sobre os
+          mais diversos assuntos. Fique a vontade para deixar seus comentários.
         actions:
           - type: action
-            label: View Posts
+            label: Ver artigos
             url: /blog
             style: link
       - type: grid_item
