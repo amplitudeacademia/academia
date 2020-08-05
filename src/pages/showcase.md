@@ -13,7 +13,7 @@ sections:
       - type: grid_item
         title: BurgerClass
         title_url: https://go.hotmart.com/N39479116K
-        image: /images/burgerclass.jpg
+        image: /images/maxresdefault.jpg
         content: >-
           Aprenda a fazer os melhores e mais suculentos hambúrgueres artesanais
           com o
