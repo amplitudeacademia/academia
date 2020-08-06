@@ -1,21 +1,24 @@
 ---
-title: New Conference
-date: '2019-03-10'
-thumb_image: images/2.jpg
-image: images/2.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
-  nam libero justo laoreet sit.
+title: Uma biblioteca com acervo de mais de 100 mil obras digitais
+subtitle: Conheça o site do Governo Federal que tem um acervo de obras clássicas
+  e outros documentos de diversos autores nacionais e internacionais
+date: 2019-03-10
+thumb_image: /images/book-3610618_1280.jpg
+image: /images/library-438389_1280.jpg
+excerpt: Conheça o site do Governo Federal brasileiro que tem um acervo de obras
+  clássicas e outros documentos de diversos autores nacionais e internacionais
 template: post
 ---
+**Que tal ler obras como *O Conde de Monte Cristo*, A Divina Comédia e outros clássicos da literatura mundial gratuitamente? Saiba que existe um site onde voce pode baixar gratuitamente essas e outras obras internacionais e nacionais, em formato digital para ler quando quiser!**
 
-**Lorem ipsum dolor sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. 
+O site **[Domínio Público](http://www.dominiopublico.gov.br/)** é uma biblioteca pública digital e gratuita, mantida pelo Governo Federal, que tem uma missão clara: *“(…) propõe o compartilhamento de conhecimentos de forma equânime, colocando à disposição de todos os usuários da rede mundial de computadores - Internet - uma biblioteca virtual que deverá se constituir em referência para professores, alunos, pesquisadores e para a população em geral”.*
 
-Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
+O portal foi lançado em 2004, inicialmente com um acervo de 500 obras e, como dito no próprio site, tem o objetivo de promover o amplo acesso às obras literárias, artísticas e científicas de obras que estejam em já em domínio público ou tenham sua divulgação devidamente autorizada.
 
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. - Scott Adams
+Os atuais mais de **170 mil títulos** podem ser baixados em formato PDF. O site ainda conta com recurso de pesquisa por título, autor, categoria e até mesmo por idioma da obra. O acervo também conta com imagens, som e vídeo. 
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+O site destaca alguns grupos especiais na página principal, como a Coleção Educadores e a obra completa de Machado de Assis, que direciona para um hotsite do MEC com todas as obras do autor, muito bem organizadas e categorizadas.
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+![Imagem do hotsite Machado de Assis - Vida e Obra](/images/captura-de-tela-2020-08-06-às-20.19.56.png "Hotsite Machado de Assis - Vida e Obra")
+
+Apesar do design já ultrapassado, este site é uma preciosa oportunidade para quem não tem ou mesmo não quer gastar dinheiro para ler centenas de obras. Vale muito a visita!
