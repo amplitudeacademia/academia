@@ -67,29 +67,29 @@ sections:
         url: /docs/getting-started
         style: secondary
   - type: section_grid
-    title: Sample Layouts
+    title: ""
     section_id: features-two-col
-    subtitle: An optional subtitle of the section
+    subtitle: ""
     col_number: two
     grid_items:
       - type: grid_item
-        title: Overview
+        title: Livros
         content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla tortor at, pulvinar orci.
         actions:
           - type: action
-            label: Learn More
+            label: "Veja nossa biblioteca "
             url: /overview
             style: link
       - type: grid_item
-        title: Showcase
-        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
-          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        title: Cursos
+        content: Aprenda algo novo. Diversos cursos com temas distintos, para te ajudar
+          a melhorar sua carreira ou ativar sua criatividade para criar algo
+          totalmente novo.
         actions:
           - type: action
-            label: Learn More
+            label: Aprenda mais
             url: /showcase
             style: link
   - type: section_cta
