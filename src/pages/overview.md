@@ -1,8 +1,8 @@
 ---
-title: Overview
+title: Livros
 sections:
   - type: section_hero
-    title: Overview
+    title: Livros
     section_id: hero
     image: images/5.jpg
     content: An optional subtitle
