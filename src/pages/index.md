@@ -74,14 +74,15 @@ sections:
     grid_items:
       - type: grid_item
         title: Livros
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+        content: Livros de diversos autores, desde romances famosos e obras menos
+          conhecidas, até livros técnicos e científicos. Um grande acervo para
+          todos os gostos.
         actions:
           - type: action
             label: "Veja nossa biblioteca "
             url: /overview
             style: link
+        title_url: ""
       - type: grid_item
         title: Cursos
         content: Aprenda algo novo. Diversos cursos com temas distintos, para te ajudar
