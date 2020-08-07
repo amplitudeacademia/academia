@@ -47,20 +47,19 @@ sections:
             url: /style-guide
             style: link
   - type: section_content
-    title: A Section With An Image
+    title: Você é um autor? Contribua com seu trabalho, compartilhe.
     section_id: text-img
-    image: images/10.jpg
+    image: /images/storytelling-4203628_1280.jpg
     image_position: left
-    content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit
-      amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: Você pode ser responsável por ajudar milhares de pessoas a terem acesso
+      à cultura, através dos seus livros, cursos ou artigos científicos.
     actions:
       - type: action
-        label: View Demo
+        label: Saiba como
         url: /docs/getting-started
         style: primary
       - type: action
-        label: Get Started
+        label: Entrar em contato
         url: /docs/getting-started
         style: secondary
   - type: section_grid
