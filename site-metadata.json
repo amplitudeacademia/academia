@@ -40,14 +40,14 @@
     "nav_links": [
       {
         "type": "action_menu",
-        "label": "Home",
+        "label": "Principal",
         "url": "/",
         "style": "link",
         "has_subnav": false
       },
       {
         "type": "action_menu",
-        "label": "Docs",
+        "label": "Participe",
         "url": "/docs",
         "style": "link",
         "has_subnav": false
@@ -106,7 +106,7 @@
       {
         "type": "action",
         "label": "Twitter",
-        "url": "https://twitter.com/",
+        "url": "https://twitter.com/ampacademia",
         "style": "icon",
         "icon_class": "fa-twitter",
         "new_window": true
