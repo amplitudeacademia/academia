@@ -11,8 +11,13 @@ sections:
     actions:
       - type: action
         label: Saiba como
-        url: /docs
+        url: /blog
         style: primary
+      - style: secondary
+        new_window: false
+        type: action
+        label: Participar
+        url: /docs
   - type: section_grid
     section_id: features
     col_number: three
@@ -29,8 +34,7 @@ sections:
       - type: grid_item
         title: Leia
         content: Leia os últimos posts do nosso blog, eles tem dicas e novidades sobre
-          os mais diversos assuntos. Fique à vontade também para dar sua
-          opinião.
+          os mais diversos assuntos.
         actions:
           - type: action
             label: Ver mais
