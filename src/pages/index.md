@@ -49,7 +49,7 @@ sections:
             label: Explore
             url: /style-guide
             style: link
-    title: Destaques
+    title: ""
   - type: section_content
     title: Você é um autor? Contribua com seu trabalho, compartilhe.
     section_id: text-img
