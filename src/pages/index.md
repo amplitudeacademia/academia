@@ -18,32 +18,31 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Documentation
-        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
-          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        title: Contribua
+        content: Compartilhe seu conhecimento, em livros, cursos ou artigos cientificos.
+          Eles estarão disponíveis aqui para todos que quiserem.
         actions:
           - type: action
-            label: Get Started
+            label: Entenda como
             url: /docs
             style: link
       - type: grid_item
-        title: Blog
-        content: Leia os últimos artigos do nosso blog, com dicas e novidades sobre os
-          mais diversos assuntos. Fique a vontade para deixar seus comentários.
+        title: Leia
+        content: Leia os últimos posts do nosso blog, eles tem dicas e novidades sobre
+          os mais diversos assuntos. Fique à vontade também para dar sua
+          opinião.
         actions:
           - type: action
-            label: Ver artigos
+            label: Ver mais
             url: /blog
             style: link
       - type: grid_item
-        title: Style Guides
-        content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a
-          maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        title: Aprenda
+        content: Navegue entre os diversos cursos que indicamos, entre gratuitos e
+          pagos, de diversos autores e assuntos.
         actions:
           - type: action
-            label: Learn More
+            label: Explore
             url: /style-guide
             style: link
   - type: section_content
