@@ -63,7 +63,7 @@ sections:
         url: /docs/getting-started
         style: primary
       - type: action
-        label: Entrar em contato
+        label: Participe
         url: /docs/getting-started
         style: secondary
   - type: section_grid
