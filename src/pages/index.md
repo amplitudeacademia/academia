@@ -5,8 +5,8 @@ sections:
     title: Amplifique seu conhecimento
     section_id: hero
     image: images/5.jpg
-    content: Crie espaço para suas ideias. Aprenda através de cursos, livros e
-      videos em materiais indicados e disponibilizados aqui. É autor? Participe,
+    content: Crie espaço para suas ideias. Aprenda em cursos, livros e artigos de
+      materiais indicados e disponibilizados aqui. Se você é autor, participe e
       contribua!
     actions:
       - type: action
