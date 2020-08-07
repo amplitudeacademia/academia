@@ -10,7 +10,7 @@ sections:
       contribua!
     actions:
       - type: action
-        label: Saiba como
+        label: Comece agora
         url: /blog
         style: primary
       - style: secondary
@@ -49,6 +49,7 @@ sections:
             label: Explore
             url: /style-guide
             style: link
+    title: Destaques
   - type: section_content
     title: Você é um autor? Contribua com seu trabalho, compartilhe.
     section_id: text-img
