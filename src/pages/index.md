@@ -113,8 +113,5 @@ sections:
         label: Get Started
         url: /docs/getting-started/installation
         style: primary
-  - type: section_docs
-    col_number: three
-    title: Teste de bloco
 template: advanced
 ---
