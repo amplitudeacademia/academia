@@ -1,6 +1,6 @@
 ---
 title: Como começar
-weight: ""
+weight: 1
 excerpt: ""
 template: docs
 ---
