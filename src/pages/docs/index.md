@@ -1,5 +1,5 @@
 ---
-title: Bem-vindo a Amplitude Academia
+title: Guia para autores
 weight: ""
 template: docs
 ---
