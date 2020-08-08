@@ -1,13 +1,13 @@
 ---
-title: Welcome to Libris
+title: Bem-vindo a Amplitude Academia
+weight: ""
 template: docs
 ---
+Este guia vai te ajudar a entender como tudo funciona e como você pode participar e distribuir seu conteúdo.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+- - -
 
-***
-
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+Para comecar, queremos falar um pouco sobre a missão da Amplitude Academia.
 
 Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
 
