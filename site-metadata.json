@@ -47,15 +47,31 @@
       },
       {
         "type": "action_menu",
-        "label": "Participe",
-        "url": "/docs",
+        "label": "Blog",
+        "url": "/blog",
         "style": "link",
         "has_subnav": false
       },
       {
+        "style": "link",
+        "new_window": false,
+        "has_subnav": false,
         "type": "action_menu",
-        "label": "Blog",
-        "url": "/blog",
+        "label": "Livros",
+        "url": "/overview"
+      },
+      {
+        "style": "link",
+        "new_window": false,
+        "has_subnav": false,
+        "type": "action_menu",
+        "label": "Cursos",
+        "url": "/showcase"
+      },
+      {
+        "type": "action_menu",
+        "label": "Participe",
+        "url": "/docs",
         "style": "primary",
         "has_subnav": false
       }
