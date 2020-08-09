@@ -96,22 +96,11 @@ sections:
   - type: section_cta
     title: The Title of The Call to Action Block
     section_id: cta
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Conheça nossos cursos selecionados, aprenda e crie novas ideias
     actions:
       - type: action
-        label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
-  - type: section_content
-    title: A Section Without Image
-    section_id: text-no-img
-    content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit
-      amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - type: action
-        label: Get Started
-        url: /docs/getting-started/installation
+        label: Começar
+        url: /showcase
         style: primary
 template: advanced
 ---
