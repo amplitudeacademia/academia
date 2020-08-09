@@ -100,7 +100,7 @@ sections:
     actions:
       - type: action
         label: Começar
-        url: /docs/getting-started/installation
+        url: /showcase
         style: primary
 template: advanced
 ---
