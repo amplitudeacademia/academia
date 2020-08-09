@@ -24,12 +24,21 @@ sections:
     grid_items:
       - type: grid_item
         title: Contribua
-        content: Compartilhe seu conhecimento, em livros, cursos ou artigos cientificos.
-          Eles estarão disponíveis aqui para todos que quiserem.
+        content: Compartilhe seu conhecimento, seja em livros, cursos ou artigos
+          cientificos. Eles estarão disponíveis aqui para todos.
         actions:
           - type: action
             label: Entenda como
             url: /docs
+            style: link
+      - type: grid_item
+        title: Aprenda
+        content: Navegue pelos diversos cursos que indicamos, entre gratuitos e pagos,
+          de diversos autores e temas.
+        actions:
+          - type: action
+            label: Explore
+            url: /style-guide
             style: link
       - type: grid_item
         title: Inspire-se
@@ -39,15 +48,6 @@ sections:
           - type: action
             label: Ver mais
             url: /blog
-            style: link
-      - type: grid_item
-        title: Aprenda
-        content: Navegue entre os diversos cursos que indicamos, entre gratuitos e
-          pagos, de diversos autores e assuntos.
-        actions:
-          - type: action
-            label: Explore
-            url: /style-guide
             style: link
     title: ""
   - type: section_content
