@@ -32,9 +32,9 @@ sections:
             url: /docs
             style: link
       - type: grid_item
-        title: Leia
-        content: Leia os últimos posts do nosso blog, eles tem dicas e novidades sobre
-          os mais diversos assuntos.
+        title: Inspire-se
+        content: Leia os últimos posts do nosso blog, eles tem dicas valiosas e ideias
+          que podem te ajudar ainda mais.
         actions:
           - type: action
             label: Ver mais
