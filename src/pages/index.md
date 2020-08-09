@@ -23,15 +23,6 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Inspire-se
-        content: Leia os últimos posts do nosso blog, eles tem dicas valiosas e ideias
-          que podem te ajudar ainda mais.
-        actions:
-          - type: action
-            label: Ver mais
-            url: /blog
-            style: link
-      - type: grid_item
         title: Aprenda
         content: Navegue pelos diversos cursos que indicamos, entre gratuitos e pagos,
           de diversos autores e temas.
@@ -39,6 +30,15 @@ sections:
           - type: action
             label: Explore
             url: /style-guide
+            style: link
+      - type: grid_item
+        title: Inspire-se
+        content: Leia os últimos posts do nosso blog, eles tem dicas valiosas e ideias
+          que podem te ajudar ainda mais.
+        actions:
+          - type: action
+            label: Ver mais
+            url: /blog
             style: link
       - type: grid_item
         title: Ensine
