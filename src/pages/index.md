@@ -33,8 +33,8 @@ sections:
             style: link
       - type: grid_item
         title: Aprenda
-        content: Navegue entre os diversos cursos que indicamos, entre gratuitos e
-          pagos, de diversos autores e assuntos.
+        content: Navegue pelos diversos cursos que indicamos, entre gratuitos e pagos,
+          de diversos autores e temas.
         actions:
           - type: action
             label: Explore
