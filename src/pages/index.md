@@ -29,7 +29,7 @@ sections:
         actions:
           - type: action
             label: Explore
-            url: /style-guide
+            url: /showcase
             style: link
       - type: grid_item
         title: Inspire-se
