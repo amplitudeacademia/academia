@@ -94,12 +94,12 @@ sections:
             url: /showcase
             style: link
   - type: section_cta
-    title: Um curso pode ser o início para realizar seu grande sonho
+    title: Um curso pode ser o início do seu grande sonho
     section_id: cta
-    subtitle: Conheça nossos cursos selecionados, aprenda e crie novas ideias
+    subtitle: Conheça nossos cursos selecionados, aprenda e crie novas ideias.
     actions:
       - type: action
-        label: Começar
+        label: Começar agora
         url: /showcase
         style: primary
 template: advanced
