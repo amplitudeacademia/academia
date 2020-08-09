@@ -94,7 +94,7 @@ sections:
             url: /showcase
             style: link
   - type: section_cta
-    title: The Title of The Call to Action Block
+    title: Um curso pode ser o início para realizar seu grande sonho
     section_id: cta
     subtitle: Conheça nossos cursos selecionados, aprenda e crie novas ideias
     actions:
