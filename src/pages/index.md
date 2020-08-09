@@ -23,13 +23,13 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Contribua
-        content: Compartilhe seu conhecimento, seja em livros, cursos ou artigos
-          cientificos. Eles estarão disponíveis aqui para todos.
+        title: Inspire-se
+        content: Leia os últimos posts do nosso blog, eles tem dicas valiosas e ideias
+          que podem te ajudar ainda mais.
         actions:
           - type: action
-            label: Entenda como
-            url: /docs
+            label: Ver mais
+            url: /blog
             style: link
       - type: grid_item
         title: Aprenda
@@ -41,13 +41,13 @@ sections:
             url: /style-guide
             style: link
       - type: grid_item
-        title: Inspire-se
-        content: Leia os últimos posts do nosso blog, eles tem dicas valiosas e ideias
-          que podem te ajudar ainda mais.
+        title: Ensine
+        content: Compartilhe seu conhecimento, seja em livros, cursos ou artigos
+          cientificos. Eles estarão disponíveis aqui para todos.
         actions:
           - type: action
-            label: Ver mais
-            url: /blog
+            label: Entenda como
+            url: /docs
             style: link
     title: ""
   - type: section_content
