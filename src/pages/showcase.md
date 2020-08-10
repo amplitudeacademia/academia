@@ -15,14 +15,13 @@ sections:
         title: Introdução ao Customer Success
         title_url: ""
         image: /images/cursocs.png
-        content: Estamos na era da retenção. Manter os clientes (e satisfeitos) é um dos
-          fatores cruciais para o sucesso de um negócio. E é embasada nessa e em
-          outras necessidades, com o cliente no centro, que surgiram as
-          primeiras áreas de Customer Success. Conheça os princípios básico
-          sobre o atendimento focado no sucesso do cliente.
+        content: Manter os clientes (e satisfeitos) é um dos fatores cruciais para o
+          sucesso de um negócio. E é embasada nessa e em outras necessidades que
+          surgiram as primeiras áreas de **Customer Success**. Conheça os
+          princípios básicos sobre o atendimento focado no sucesso do cliente.
         actions:
           - style: link
-            new_window: false
+            new_window: true
             type: action
             label: Ir para o curso
             url: https://www.udemy.com/course/introducao-ao-customer-success/
@@ -34,7 +33,11 @@ sections:
           Aprenda a fazer os melhores e mais suculentos hambúrgueres artesanais
           com o
 
-          único curso em vídeo que te ensina tudo passo a passo.
+          único curso em vídeo que te ensina tudo passo a passo. O Curso de Hambúrguer
+
+          Artesanal BurguerClass é 100% online, ou seja, você vai precisar apenas de um
+
+          computador, tablet ou celular conectado à internet.
         actions:
           - style: link
             new_window: true
