@@ -1,5 +1,6 @@
 ---
 title: Cursos
+excerpt: Aprimore suas habilidades ou aprenda algo totalmente novo.
 sections:
   - type: section_hero
     title: Cursos
