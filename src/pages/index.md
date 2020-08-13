@@ -29,7 +29,7 @@ sections:
         actions:
           - type: action
             label: Explore
-            url: /showcase
+            url: /cursos
             style: link
       - type: grid_item
         title: Inspire-se
@@ -91,7 +91,7 @@ sections:
         actions:
           - type: action
             label: Aprenda mais
-            url: /showcase
+            url: /cursos
             style: link
   - type: section_cta
     title: Um curso pode ser o início do seu grande sonho
