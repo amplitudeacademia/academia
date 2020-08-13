@@ -80,7 +80,7 @@ sections:
         actions:
           - type: action
             label: "Veja nossa biblioteca "
-            url: /overview
+            url: /livros
             style: link
         title_url: ""
       - type: grid_item
